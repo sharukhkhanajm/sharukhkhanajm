@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sharukhkhandev@gmail.com**
 
-- 📄 Know about my experiences [Resume](http://localhost:3000/sharukh-resume.pdf)
+- 📄 Know about my [Experiences](http://localhost:3000/sharukh-resume.pdf)
 
 - ⚡ Fun fact **I love video games and Batman 〴 ⋋_⋌ 〵 is my favorite Superhero**
 
