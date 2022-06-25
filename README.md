@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I love video games and Batman 〴 ⋋_⋌ 〵 is my favorite Superhero**
 
-<a  href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/sharukhkhanajm/sharukhkhanajm/blob/main/devcard.svg" width="400" alt="Sharukh's Dev Card"/></a>
+<a  href="https://app.daily.dev/shahrukhajm"><img align="right" src="https://github.com/sharukhkhanajm/sharukhkhanajm/blob/main/devcard.svg" width="400" alt="Sharukh's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
