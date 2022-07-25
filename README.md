@@ -14,13 +14,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [sharukh.dev](http://localhost:3000/)
-
 - 💬 Ask me about **JavaScript, React, WordPress, Flutter and Web development in general.**
 
 - 📫 How to reach me **sharukhkhandev@gmail.com**
-
-- 📄 Know about my [Experiences](http://localhost:3000/sharukh-resume.pdf)
 
 - ⚡ Fun fact **I love video games and Batman 〴 ⋋_⋌ 〵 is my favorite Superhero**
 
